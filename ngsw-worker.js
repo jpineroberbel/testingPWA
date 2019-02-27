@@ -441,7 +441,7 @@
             else {
                 return url;
             }
-        }  
+        }
         /**
          * Some resources are cached without a hash, meaning that their expiration is controlled
          * by HTTP caching headers. Check whether the given request/response pair is still valid
